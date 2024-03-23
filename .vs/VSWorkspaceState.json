@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\docker"
+    "\\docker\\db",
+    "\\docker\\nginx",
+    "\\docker\\php",
+    "\\public",
+    "\\public\\views",
+    "\\src",
+    "\\src\\controllers"
   ],
-  "SelectedNode": "\\index.php",
+  "SelectedNode": "\\src\\controllers\\AppController.php",
   "PreviewInSolutionExplorer": false
 }
