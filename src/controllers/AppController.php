@@ -1,7 +1,6 @@
 <?php
 
 class AppController {
-
     public function render(string $template = null, array $variables = [])
     {
         $templatePath = 'public/views/'. $template.'.html';
